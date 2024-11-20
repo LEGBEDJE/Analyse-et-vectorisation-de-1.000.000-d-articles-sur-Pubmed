@@ -62,20 +62,8 @@ pip install -r requirements.txt
     Entrez.email = "votre-email@example.com"
     Entrez.api_key = "votre-clé-api"
 
-Structure du projet
+# Structure du projet
 
-├── data/
-│   ├── pubmed_data.csv          # Fichier des données extraites de PubMed
-├── notebooks/
-│   ├── pubmed_analysis.ipynb    # Jupyter Notebook contenant le code principal
-├── src/
-│   ├── data_extraction.py       # Code pour extraire des articles depuis PubMed
-│   ├── preprocessing.py         # Code pour nettoyer et vectoriser les textes
-│   ├── clustering.py            # Implémentation de PCA et K-means
-├── visuals/
-│   ├── clusters_visualization.png  # Exemple de visualisation des clusters
-├── README.md                    # Ce fichier
-├── requirements.txt             # Liste des dépendances Python
 
 Exécution
 # Étape 1 : Extraction des données
