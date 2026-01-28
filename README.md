@@ -103,6 +103,7 @@ python src/clustering.py
     Ajouter un modèle de topic modeling (LDA) pour identifier les thèmes des clusters.
     Intégrer une interface utilisateur simple pour interagir avec les données.
     Étendre l'analyse à d'autres bases de données scientifiques.
+Mettre en disposition en tant que librairie 
 
 # Auteur
 
