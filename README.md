@@ -1,4 +1,4 @@
-# Analyse-et-vectorisation-de-1.000.000-d-articles-sur-Pubmed
+ # Analyse-et-vectorisation-de-1.000.000-d-articles-sur-Pubmed
 Description du projet
 
 Ce projet explore un grand ensemble d'articles scientifiques issus de la base de données PubMed. L'objectif principal est de récupérer, analyser, et regrouper des articles en clusters thématiques en utilisant des techniques de traitement du langage naturel (NLP) et de machine learning non supervisé.
